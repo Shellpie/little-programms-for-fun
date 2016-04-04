@@ -53,11 +53,3 @@ class YSFJ {
 	}
 	
 }
-
-public class MYSFJ {
-	public static void main (String[] args){
-		YSFJ ysfj = new YSFJ (1,-5,-6);
-		ysfj.getYSFJ(); 	
-		ysfj.display();
-	}	
-}
